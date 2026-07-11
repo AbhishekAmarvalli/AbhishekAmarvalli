@@ -1,32 +1,309 @@
-### Hi, I'm Abhishek Amarvalli 👋
+<div align="center">
 
-CS undergrad (2nd year) building web projects and exploring problem-solving through code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Abhishek%20Amarvalli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-- 🔭 **Currently building:**
-  - [SHAAAA Beauty Parlour](https://github.com/AbhishekAmarvalli/shaaaa_website) — a multi-page beauty parlour website with advanced UI: coverflow gallery carousel, fullscreen lightbox, and mobile bottom-drawer modals
-  - [Battle Game](https://github.com/AbhishekAmarvalli/Battle_game) — a C++ turn-based battle game with attack/defend mechanics
-- 🌱 **Currently learning:** Backend development (Node.js) & strengthening my DSA/problem-solving fundamentals
-- 💬 **Ask me about:** HTML/CSS/JS,Java,c,MySQL, C++, Python
-- ⚡ **Fun fact:** I like turning small ideas into fully working, polished projects rather than leaving them half-done
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Engineering+AI-powered+products;Turning+ideas+into+production-grade+code;Second-Year+CSE+%40+Ganpat+University" alt="Typing SVG" />
 
----
+<br/>
 
-### 🛠️ Tech Stack
+![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e)
+![University](https://img.shields.io/badge/Ganpat%20University-ICT-7C3AED?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20Telangana-8B5CF6?style=flat-square&labelColor=1a1a2e)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekAmarvalli)
 
-### 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-stats-extended.vercel.app/api?username=AbhishekAmarvalli&show_icons=true&theme=default&hide_border=true)
+<br/>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AbhishekAmarvalli&layout=compact&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=AbhishekAmarvalli&color=8B5CF6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/AbhishekAmarvalli?color=7C3AED&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/AbhishekAmarvalli?color=6D28D9&style=flat-square&label=Stars)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbhishekAmarvalli&hide_border=true)
+</div>
+
+<br/>
+
+## ⟢ About
+
+```
+I'm Abhishek Amarvalli — a second-year Computer Science & Engineering student
+at Ganpat University, Institute of Computer Technology, building production-
+grade software with a focus on full-stack systems, backend architecture, and
+applied AI/ML.
+
+My work spans building performant web applications, engineering scalable
+backend services with Node.js, and shipping real products for local
+businesses and hackathon tracks. I approach engineering with a product
+mindset — writing code that is maintainable, tested, and built to scale
+beyond a prototype.
+
+Currently deepening my expertise in backend systems, data structures &
+algorithms, and AI-integrated product engineering.
+```
+
+**◆ Open To:** Software Engineering Internships · Full Stack Development Roles · AI/ML Collaboration · Open Source Contribution
+
+<br/>
+
+## ⟢ Tech Stack
+
+**Languages**
+<p> <img src="https://skillicons.dev/icons?i=cpp,c,py,js,java,html,css" /> </p>
+
+**Frontend**
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
+
+**Backend & Databases**
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" /> </p>
+
+**Cloud, DevOps & Tooling**
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" /> </p>
+
+<br/>
+
+## ⟢ AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Applied AI Integration** | ●●●○○ | Integrating LLM-powered features into full-stack applications |
+| **Data Scraping & Processing** | ●●●●○ | Selenium-based automated data pipelines with hybrid pagination handling |
+| **Prompt Engineering** | ●●●○○ | Structuring AI workflows for product-focused use cases |
+| **Applied Data Analysis** | ●●●○○ | PDF/report generation pipelines using Python (ReportLab) |
+| **Backend for AI Systems** | ●●○○○ | Building API layers to serve AI-driven features |
+
+</div>
+
+<br/>
+
+## ⟢ Featured Projects
+
+<details>
+<summary><b>🅰️ SHAAAA — Multi-Page Business Website</b></summary>
+<br/>
+
+Professional multi-page freelance website built for a local beauty parlour business, featuring a custom coverflow 3D carousel, fullscreen desktop lightbox, and a mobile-native bottom drawer modal gallery experience.
+
+| Category | Detail |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript |
+| **Scale** | Multi-page production site for live business use |
+| **Performance** | Optimized carousel with resize-aware rendering, fixed autoplay reliability |
+| **Security** | Client-side input sanitization, static asset hardening |
+| **Impact** | Delivered a fully functional client-facing product used for real business acquisition |
+| **Repository** | [View Repository](https://github.com/AbhishekAmarvalli) |
+
+Engineered end-to-end — from responsive layout architecture to fixing critical UX bugs like broken autoplay, hardcoded card widths, and missing resize handlers, culminating in a polished coverflow gallery experience across devices.
+
+</details>
+
+<details>
+<summary><b>🅱️ Pixel Battle Arena — Win32 Turn-Based RPG Engine</b></summary>
+<br/>
+
+A native Windows turn-based RPG built from scratch in C++ using Win32 GDI/GDI+, featuring full-screen painted scene backdrops, animated GIF integration, and a custom breathing animation system for dynamic visual feedback.
+
+| Category | Detail |
+|---|---|
+| **Stack** | C++, Win32 API, GDI/GDI+ |
+| **Scale** | Standalone native desktop application |
+| **Performance** | Custom render loop with animation frame management |
+| **Security** | Resolved linker-level vulnerabilities (GUID_NULL, NOMINMAX conflicts) |
+| **Impact** | Demonstrated low-level systems programming and native graphics engineering |
+| **Repository** | [View Repository](https://github.com/AbhishekAmarvalli) |
+
+Solved deep systems-level challenges including GUID_NULL linker errors, NOMINMAX redefinition conflicts, and objidl.h dependency resolution while building a custom animation and rendering pipeline.
+
+</details>
+
+<details>
+<summary><b>🅲️ NGO Darpan Data Pipeline — Automated Web Scraper</b></summary>
+<br/>
+
+A Python-based Selenium automation pipeline designed to extract structured NGO data across Telangana districts from a captcha-protected, SPA-based government portal.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python, Selenium |
+| **Scale** | District-wide data extraction across a government SPA portal |
+| **Performance** | Hybrid manual-pagination strategy to bypass SPA/captcha constraints |
+| **Security** | Respectful rate-limited scraping architecture |
+| **Impact** | Enabled structured, analyzable NGO datasets from an unstructured public source |
+| **Repository** | [View Repository](https://github.com/AbhishekAmarvalli) |
+
+Engineered around real-world constraints — captcha protection and single-page application rendering — by designing a hybrid automation-and-manual workflow to reliably extract data at scale.
+
+</details>
+
+<details>
+<summary><b>🅳️ Ganpat Physics PYQ Analyzer — Automated Study Report Generator</b></summary>
+<br/>
+
+A Python data pipeline that analyzed a decade of Physics previous-year question papers (2015–2025) and auto-generated a prioritized, exam-ready study PDF.
+
+| Category | Detail |
+|---|---|
+| **Stack** | Python, ReportLab |
+| **Scale** | 10-year academic dataset analysis |
+| **Performance** | Automated frequency-based topic prioritization |
+| **Security** | N/A — offline data processing pipeline |
+| **Impact** | Produced a high-utility, exam-optimized study resource used directly for exam prep |
+| **Repository** | [View Repository](https://github.com/AbhishekAmarvalli) |
+
+Applied data analysis to identify high-yield exam topics such as the Doppler Effect, Optical Fibers, and Semiconductors, then auto-generated a polished, distributable PDF report.
+
+</details>
+
+<br/>
+
+## ⟢ Experience
+
+**Volunteer — Societal Internship**
+**Rajeswari Foundation, Hyderabad**
+`15-Day Placement`
+
+Completed a structured societal internship focused on community engagement and volunteer coordination, culminating in a professionally documented report.
+
+- Volunteered on-ground with foundation initiatives over a 15-day placement
+- Authored a comprehensive internship report using LaTeX and Word
+- Documented outcomes, learnings, and community impact in a professional format
+
+`Documentation` `LaTeX` `Community Engagement` `Report Writing`
+
+<br/>
+
+## ⟢ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 AI for Bharat Hackathon | Cleared the Eliminator Round — explored SevaSetu, GramConnect & PathPrep tracks |
+| 🏆 Client Project Delivery | Delivered a live, production multi-page business website (SHAAAA) |
+| 🏆 Systems Programming | Built a native Win32 C++ RPG engine with custom rendering pipeline |
+
+</div>
+
+<br/>
+
+## ⟢ Certifications
+
+**AWS**
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Oracle**
+![Oracle](https://img.shields.io/badge/Oracle-Certified%20Foundations-7C3AED?style=flat-square&logo=oracle&logoColor=white)
+
+**NPTEL**
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
+
+**Cisco**
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-9333EA?style=flat-square&logo=cisco&logoColor=white)
+
+<br/>
+
+## ⟢ Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AbhishekAmarvalli)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/AbhishekAmarvalli)
+[![HackerRank](https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/AbhishekAmarvalli)
+[![CodeChef](https://img.shields.io/badge/CodeChef-9333EA?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/AbhishekAmarvalli)
+
+</div>
+
+<br/>
+
+## ⟢ GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekAmarvalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekAmarvalli&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAmarvalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+
+</div>
+
+<br/>
+
+## ⟢ GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekAmarvalli&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br/>
+
+## ⟢ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAmarvalli&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+
+</div>
+
+<br/>
+
+## ⟢ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## ⟢ Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Node.js & Backend System Design
+    - Data Structures & Algorithms
+    - AI-Integrated Product Engineering
+  building:
+    - Personal Portfolio (Glassmorphic UI, Dark/Light Mode)
+    - Full-Stack Client Projects
+  exploring:
+    - LLM-Powered Application Architecture
+    - Cloud Deployment & DevOps Fundamentals
+  open_to:
+    - Software Engineering Internships
+    - Full Stack / Backend Roles
+    - Open Source Collaboration
+```
+
+<br/>
+
+## ⟢ Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekAmarvalli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code is the closest thing we have to magic — write it with intent."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
