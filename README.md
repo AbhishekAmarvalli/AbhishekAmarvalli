@@ -28,9 +28,9 @@
 ## ⟢ About
 
 ```
-I'm Abhishek Amarvalli — a second-year Computer Science & Engineering student
-at Ganpat University, Institute of Computer Technology, building production-
-grade software with a focus on full-stack systems, backend architecture, and
+I'm Abhishek Amarvalli — a Computer Science & Engineering student
+at Institute of Computer Technology, building production-grade software
+with a focus on full-stack systems, backend architecture, and
 applied AI/ML.
 
 My work spans building performant web applications, engineering scalable
