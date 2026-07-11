@@ -17,12 +17,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: AbhishekAmarvalli
-          output_path: profile-trophy.svg
+          file: profile-trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: discord
-          column: 7
-          margin_w: 8
-          margin_h: 8
+          max-cols: 7
+          margin-width: 8
+          margin-height: 8
 
       - name: Commit and push
         run: |
