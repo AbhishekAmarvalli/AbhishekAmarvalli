@@ -279,6 +279,7 @@ Completed a structured societal internship focused on community engagement and v
 </table>
 </div>
 <br/>
+
 ## ⟢ GitHub Analytics
 
 <div align="center">
