@@ -230,36 +230,55 @@ Completed a structured societal internship focused on community engagement and v
 
 ## ⟢ Certifications
 
-**AWS**
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-145A32?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Oracle**
-![Oracle](https://img.shields.io/badge/Oracle-Certified%20Foundations-1E8449?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Course-27AE60?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-2ECC71?style=flat-square&logo=cisco&logoColor=white)
-
-**Red Hat**
-![RedHat](https://img.shields.io/badge/Red%20Hat-Linux%20Certified-EE0000?style=flat-square&logo=redhat&logoColor=white)
-
+<div align="center">
+<table cellpadding="10" cellspacing="0" border="0" margin="10">
+  <tr>
+    <td align="center" rowspan="2">
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/aws-card.svg" width="160"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/oracle-card.svg" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/nptel-card.svg" width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/cisco-card.svg" width="120"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/redhat-card.svg" width="120"/>
+    </td>
+  </tr>
+</table>
+</div>
+<br/>
 <br/>
 
 ## ⟢ Coding Profiles
-
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-145A32?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AbhishekAmarvalli)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1E8449?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/AbhishekAmarvalli)
-[![HackerRank](https://img.shields.io/badge/HackerRank-27AE60?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/AbhishekAmarvalli)
-[![CodeChef](https://img.shields.io/badge/CodeChef-2ECC71?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/AbhishekAmarvalli)
-
+<table cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://leetcode.com/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/leetcode-card.svg" width="160"/></a>
+    </td>
+    <td align="center">
+      <a href="https://geeksforgeeks.org/user/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/gfg-card (1).svg" width="120"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://hackerrank.com/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/hackerrank-card.svg" width="120"/></a>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://codechef.com/users/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/codechef-card.svg" width="160"/></a>
+    </td>
+  </tr>
+</table>
 </div>
-
 <br/>
-
 ## ⟢ GitHub Analytics
 
 <div align="center">
