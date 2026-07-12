@@ -49,18 +49,44 @@ algorithms, and AI-integrated product engineering.
 
 ## ⟢ Tech Stack
 
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=cpp,c,py,js,java,html,css" /> </p>
 
-**Frontend**
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
-
-**Backend & Databases**
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" /> </p>
-
-**Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" /> </p>
-
+<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center" width="34%" rowspan="2">
+      <br/>
+      <b>Languages</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,js,java,html,css" />
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <b>Frontend</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+      <br/><br/>
+    </td>
+    <td align="center" width="33%">
+      <br/>
+      <b>Backend & Databases</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br/>
+      <b>Cloud, DevOps & Tooling</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+<br/>
 <br/>
 
 ## ⟢ AI / ML Expertise
