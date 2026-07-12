@@ -1,0 +1,111 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+<defs><clipPath id="round-102"><rect x="0" y="0" width="220" height="220" rx="28" ry="28"/></clipPath></defs>
+<g clip-path="url(#round-102)">
+<rect x="0" y="0" width="220" height="220" fill="#020402"/>
+<g font-family="Consolas, Menlo, monospace" font-size="12">
+
+<g transform="translate(6.4,-74.6)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.53">ヨ</text><text x="0" y="13" fill="#00FF41" opacity="0.47">7</text><text x="0" y="26" fill="#00FF41" opacity="0.41">I</text><text x="0" y="39" fill="#00FF41" opacity="0.35">0</text><text x="0" y="52" fill="#00FF41" opacity="0.30">2</text><text x="0" y="65" fill="#00FF41" opacity="0.24">カ</text><text x="0" y="78" fill="#00FF41" opacity="0.18">V</text><text x="0" y="91" fill="#00FF41" opacity="0.12">X</text><text x="0" y="104" fill="#00FF41" opacity="0.06">7</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="6.4 -132.0" to="6.4 308.0"
+    dur="3.38s" begin="-2.67s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(24.6,-170.1)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.51">キ</text><text x="0" y="13" fill="#00FF41" opacity="0.42">ネ</text><text x="0" y="26" fill="#00FF41" opacity="0.34">5</text><text x="0" y="39" fill="#00FF41" opacity="0.25">1</text><text x="0" y="52" fill="#00FF41" opacity="0.17">K</text><text x="0" y="65" fill="#00FF41" opacity="0.08">S</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="24.6 -132.0" to="24.6 308.0"
+    dur="4.63s" begin="-3.74s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(40.6,-83.4)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.73">ケ</text><text x="0" y="13" fill="#00FF41" opacity="0.66">ミ</text><text x="0" y="26" fill="#00FF41" opacity="0.59">6</text><text x="0" y="39" fill="#00FF41" opacity="0.51">シ</text><text x="0" y="52" fill="#00FF41" opacity="0.44">ロ</text><text x="0" y="65" fill="#00FF41" opacity="0.37">C</text><text x="0" y="78" fill="#00FF41" opacity="0.29">ノ</text><text x="0" y="91" fill="#00FF41" opacity="0.22">T</text><text x="0" y="104" fill="#00FF41" opacity="0.15">I</text><text x="0" y="117" fill="#00FF41" opacity="0.07">5</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="40.6 -132.0" to="40.6 308.0"
+    dur="3.95s" begin="-5.13s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(54.7,-140.0)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.48">マ</text><text x="0" y="13" fill="#00FF41" opacity="0.42">8</text><text x="0" y="26" fill="#00FF41" opacity="0.36">ヨ</text><text x="0" y="39" fill="#00FF41" opacity="0.30">J</text><text x="0" y="52" fill="#00FF41" opacity="0.24">チ</text><text x="0" y="65" fill="#00FF41" opacity="0.18">Z</text><text x="0" y="78" fill="#00FF41" opacity="0.12">6</text><text x="0" y="91" fill="#00FF41" opacity="0.06">K</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="54.7 -132.0" to="54.7 308.0"
+    dur="2.64s" begin="-1.17s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(72.6,-116.6)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.88">L</text><text x="0" y="13" fill="#00FF41" opacity="0.75">8</text><text x="0" y="26" fill="#00FF41" opacity="0.63">T</text><text x="0" y="39" fill="#00FF41" opacity="0.50">ヒ</text><text x="0" y="52" fill="#00FF41" opacity="0.38">E</text><text x="0" y="65" fill="#00FF41" opacity="0.25">ミ</text><text x="0" y="78" fill="#00FF41" opacity="0.13">ヒ</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="72.6 -132.0" to="72.6 308.0"
+    dur="4.92s" begin="-2.16s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(86.8,-5.7)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.69">E</text><text x="0" y="13" fill="#00FF41" opacity="0.61">タ</text><text x="0" y="26" fill="#00FF41" opacity="0.53">O</text><text x="0" y="39" fill="#00FF41" opacity="0.46">ヌ</text><text x="0" y="52" fill="#00FF41" opacity="0.38">リ</text><text x="0" y="65" fill="#00FF41" opacity="0.31">コ</text><text x="0" y="78" fill="#00FF41" opacity="0.23">U</text><text x="0" y="91" fill="#00FF41" opacity="0.15">D</text><text x="0" y="104" fill="#00FF41" opacity="0.08">ム</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="86.8 -132.0" to="86.8 308.0"
+    dur="4.26s" begin="-2.80s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(101.8,-74.2)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.55">H</text><text x="0" y="13" fill="#00FF41" opacity="0.46">ツ</text><text x="0" y="26" fill="#00FF41" opacity="0.37">テ</text><text x="0" y="39" fill="#00FF41" opacity="0.27">4</text><text x="0" y="52" fill="#00FF41" opacity="0.18">P</text><text x="0" y="65" fill="#00FF41" opacity="0.09">W</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="101.8 -132.0" to="101.8 308.0"
+    dur="2.90s" begin="-3.31s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(116.8,-194.5)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.80">ア</text><text x="0" y="13" fill="#00FF41" opacity="0.64">H</text><text x="0" y="26" fill="#00FF41" opacity="0.48">ヤ</text><text x="0" y="39" fill="#00FF41" opacity="0.32">ル</text><text x="0" y="52" fill="#00FF41" opacity="0.16">モ</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="116.8 -132.0" to="116.8 308.0"
+    dur="3.00s" begin="-4.35s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(134.5,-69.1)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.83">ハ</text><text x="0" y="13" fill="#00FF41" opacity="0.72">ウ</text><text x="0" y="26" fill="#00FF41" opacity="0.62">N</text><text x="0" y="39" fill="#00FF41" opacity="0.52">ノ</text><text x="0" y="52" fill="#00FF41" opacity="0.41">N</text><text x="0" y="65" fill="#00FF41" opacity="0.31">1</text><text x="0" y="78" fill="#00FF41" opacity="0.21">ヒ</text><text x="0" y="91" fill="#00FF41" opacity="0.10">ホ</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="134.5 -132.0" to="134.5 308.0"
+    dur="4.65s" begin="-3.42s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(148.3,-72.7)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.79">O</text><text x="0" y="13" fill="#00FF41" opacity="0.66">ツ</text><text x="0" y="26" fill="#00FF41" opacity="0.53">ア</text><text x="0" y="39" fill="#00FF41" opacity="0.40">ム</text><text x="0" y="52" fill="#00FF41" opacity="0.26">ヤ</text><text x="0" y="65" fill="#00FF41" opacity="0.13">G</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="148.3 -132.0" to="148.3 308.0"
+    dur="5.15s" begin="-1.71s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(163.9,-168.0)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.52">コ</text><text x="0" y="13" fill="#00FF41" opacity="0.47">9</text><text x="0" y="26" fill="#00FF41" opacity="0.42">タ</text><text x="0" y="39" fill="#00FF41" opacity="0.37">O</text><text x="0" y="52" fill="#00FF41" opacity="0.31">ソ</text><text x="0" y="65" fill="#00FF41" opacity="0.26">ナ</text><text x="0" y="78" fill="#00FF41" opacity="0.21">ヤ</text><text x="0" y="91" fill="#00FF41" opacity="0.16">ナ</text><text x="0" y="104" fill="#00FF41" opacity="0.10">ネ</text><text x="0" y="117" fill="#00FF41" opacity="0.05">ク</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="163.9 -132.0" to="163.9 308.0"
+    dur="3.61s" begin="-0.34s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(181.5,-120.7)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.72">P</text><text x="0" y="13" fill="#00FF41" opacity="0.65">コ</text><text x="0" y="26" fill="#00FF41" opacity="0.58">ワ</text><text x="0" y="39" fill="#00FF41" opacity="0.50">X</text><text x="0" y="52" fill="#00FF41" opacity="0.43">ツ</text><text x="0" y="65" fill="#00FF41" opacity="0.36">N</text><text x="0" y="78" fill="#00FF41" opacity="0.29">M</text><text x="0" y="91" fill="#00FF41" opacity="0.22">ミ</text><text x="0" y="104" fill="#00FF41" opacity="0.14">ツ</text><text x="0" y="117" fill="#00FF41" opacity="0.07">イ</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="181.5 -132.0" to="181.5 308.0"
+    dur="5.33s" begin="-5.15s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(195.5,-0.1)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.89">ハ</text><text x="0" y="13" fill="#00FF41" opacity="0.77">ケ</text><text x="0" y="26" fill="#00FF41" opacity="0.64">シ</text><text x="0" y="39" fill="#00FF41" opacity="0.51">Z</text><text x="0" y="52" fill="#00FF41" opacity="0.38">ハ</text><text x="0" y="65" fill="#00FF41" opacity="0.26">K</text><text x="0" y="78" fill="#00FF41" opacity="0.13">エ</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="195.5 -132.0" to="195.5 308.0"
+    dur="5.17s" begin="-5.09s" repeatCount="indefinite" additive="sum"/>
+</g>
+
+<g transform="translate(211.2,-116.3)">
+  <g><text x="0" y="0" fill="#B8FFC0" opacity="0.57">ネ</text><text x="0" y="13" fill="#00FF41" opacity="0.50">メ</text><text x="0" y="26" fill="#00FF41" opacity="0.43">Y</text><text x="0" y="39" fill="#00FF41" opacity="0.36">サ</text><text x="0" y="52" fill="#00FF41" opacity="0.29">セ</text><text x="0" y="65" fill="#00FF41" opacity="0.21">タ</text><text x="0" y="78" fill="#00FF41" opacity="0.14">ヒ</text><text x="0" y="91" fill="#00FF41" opacity="0.07">ト</text></g>
+  <animateTransform attributeName="transform" type="translate"
+    from="211.2 -132.0" to="211.2 308.0"
+    dur="4.04s" begin="-2.41s" repeatCount="indefinite" additive="sum"/>
+</g>
+</g>
+<rect x="30" y="42" width="160" height="96" rx="16" fill="#000000" opacity="0.35"/>
+<g transform="translate(60.5,40.5) scale(4.1250)" fill="#39FF6A">
+<path d="M21.45 14.315c-.143.28-.334.532-.565.745a3.691 3.691 0 0 1-1.104.695 4.51 4.51 0 0 1-3.116-.016 3.79 3.79 0 0 1-2.135-2.078 3.571 3.571 0 0 1-.13-.353h7.418a4.26 4.26 0 0 1-.368 1.008zm-11.99-.654a3.793 3.793 0 0 1-2.134 2.078 4.51 4.51 0 0 1-3.117.016 3.7 3.7 0 0 1-1.104-.695 2.652 2.652 0 0 1-.564-.745 4.221 4.221 0 0 1-.368-1.006H9.59c-.038.12-.08.238-.13.352zm14.501-1.758a3.849 3.849 0 0 0-.082-.475l-9.634-.008a3.932 3.932 0 0 1 1.143-2.348c.363-.35.79-.625 1.26-.809a3.97 3.97 0 0 1 4.484.957l1.521-1.49a5.7 5.7 0 0 0-1.922-1.357 6.283 6.283 0 0 0-2.544-.49 6.35 6.35 0 0 0-2.405.457 6.007 6.007 0 0 0-1.963 1.276 6.142 6.142 0 0 0-1.325 1.94 5.862 5.862 0 0 0-.466 1.864h-.063a5.857 5.857 0 0 0-.467-1.865 6.13 6.13 0 0 0-1.325-1.939A6 6 0 0 0 8.21 6.34a6.698 6.698 0 0 0-4.949.031A5.708 5.708 0 0 0 1.34 7.73l1.52 1.49a4.166 4.166 0 0 1 4.484-.958c.47.184.898.46 1.26.81.368.36.66.792.859 1.268.146.344.242.708.285 1.08l-9.635.008A4.714 4.714 0 0 0 0 12.457a6.493 6.493 0 0 0 .345 2.127 4.927 4.927 0 0 0 1.08 1.783c.528.56 1.17 1 1.88 1.293a6.454 6.454 0 0 0 2.504.457c.824.005 1.64-.15 2.404-.457a5.986 5.986 0 0 0 1.964-1.277 6.116 6.116 0 0 0 1.686-3.076h.273a6.13 6.13 0 0 0 1.686 3.077 5.99 5.99 0 0 0 1.964 1.276 6.345 6.345 0 0 0 2.405.457 6.45 6.45 0 0 0 2.502-.457 5.42 5.42 0 0 0 1.882-1.293 4.928 4.928 0 0 0 1.08-1.783A6.52 6.52 0 0 0 24 12.457a4.757 4.757 0 0 0-.039-.554z"/>
+</g>
+<text x="110.0" y="194" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8CFFA0">DSA &amp; Articles</text>
+</g>
+</svg>
