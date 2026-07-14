@@ -95,11 +95,11 @@ algorithms, and AI-integrated product engineering.
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Applied AI Integration** | ●●●○○ | Integrating LLM-powered features into full-stack applications |
-| **Data Scraping & Processing** | ●●●●○ | Selenium-based automated data pipelines with hybrid pagination handling |
-| **Prompt Engineering** | ●●●○○ | Structuring AI workflows for product-focused use cases |
-| **Applied Data Analysis** | ●●●○○ | PDF/report generation pipelines using Python (ReportLab) |
-| **Backend for AI Systems** | ●●○○○ | Building API layers to serve AI-driven features |
+| **Applied AI Integration** | 🟢🟢🟢⚪⚪ | Integrating LLM-powered features into full-stack applications |
+| **Data Scraping & Processing** | 🟢🟢🟢🟢⚪ | Selenium-based automated data pipelines with hybrid pagination handling |
+| **Prompt Engineering** | 🟢🟢🟢⚪⚪ | Structuring AI workflows for product-focused use cases |
+| **Applied Data Analysis** | 🟢🟢🟢⚪⚪ | PDF/report generation pipelines using Python (ReportLab) |
+| **Backend for AI Systems** | 🟢🟢⚪⚪⚪ | Building API layers to serve AI-driven features |
 
 </div>
 
@@ -108,7 +108,7 @@ algorithms, and AI-integrated product engineering.
 ## ⟢ Featured Projects
 
 <details>
-<summary><b>🅰️ SHAAAA — Multi-Page Business Website</b></summary>
+<summary><b>:green_square: SHAAAA — Multi-Page Business Website</b></summary>
 <br/>
 
 Professional multi-page freelance website built for a local beauty parlour business, featuring a custom coverflow 3D carousel, fullscreen desktop lightbox, and a mobile-native bottom drawer modal gallery experience.
@@ -127,7 +127,7 @@ Engineered end-to-end — from responsive layout architecture to fixing critical
 </details>
 
 <details>
-<summary><b>🅱️ Pixel Battle Arena — Win32 Turn-Based RPG Engine</b></summary>
+<summary><b>:green_square: Pixel Battle Arena — Win32 Turn-Based RPG Engine</b></summary>
 <br/>
 
 A native Windows turn-based RPG built from scratch in C++ using Win32 GDI/GDI+, featuring full-screen painted scene backdrops, animated GIF integration, and a custom breathing animation system for dynamic visual feedback.
@@ -146,7 +146,7 @@ Solved deep systems-level challenges including GUID_NULL linker errors, NOMINMAX
 </details>
 
 <details>
-<summary><b>🅲️ NGO Darpan Data Pipeline — Automated Web Scraper</b></summary>
+<summary><b>:green_square: NGO Darpan Data Pipeline — Automated Web Scraper</b></summary>
 <br/>
 
 A Python-based Selenium automation pipeline designed to extract structured NGO data across Telangana districts from a captcha-protected, SPA-based government portal.
@@ -165,7 +165,7 @@ Engineered around real-world constraints — captcha protection and single-page 
 </details>
 
 <details>
-<summary><b>🅳️ Ganpat Physics PYQ Analyzer — Automated Study Report Generator</b></summary>
+<summary><b>:green_square: Ganpat Physics PYQ Analyzer — Automated Study Report Generator</b></summary>
 <br/>
 
 A Python data pipeline that analyzed a decade of Physics previous-year question papers (2015–2025) and auto-generated a prioritized, exam-ready study PDF.
