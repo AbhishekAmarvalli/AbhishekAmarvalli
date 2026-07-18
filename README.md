@@ -232,27 +232,13 @@ Completed a structured societal internship focused on community engagement and v
 
 
 <div align="center">
-<table cellpadding="10" cellspacing="0" border="0" margin="10">
-  <tr>
-    <td align="center" rowspan="2">
-      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/aws-card.svg" width="160"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/oracle-card.svg" width="120"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/nptel-card.svg" width="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/cisco-card.svg" width="120"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/redhat-card.svg" width="120"/>
-    </td>
-  </tr>
-</table>
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/aws-card.svg" width="80"/>
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/oracle-card.svg" width="80"/>
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/nptel-card.svg" width="80"/>
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/cisco-card.svg" width="80"/>
+      <img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/redhat-card.svg" width="80"/>
+
+
 </div>
 <br/>
 <br/>
@@ -265,12 +251,12 @@ Completed a structured societal internship focused on community engagement and v
       <a href="https://leetcode.com/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/leetcode-matrix-card.svg" width="160"/></a>
     </td>
     <td align="center">
-      <a href="https://geeksforgeeks.org/user/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/gfg-matrix-card.svg" width="120"/></a>
+      <a href="https://geeksforgeeks.org/user/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/gfg-matrix-card.svg" width="160"/></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://hackerrank.com/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/hackerrank-matrix-card.svg" width="120"/></a>
+      <a href="https://hackerrank.com/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/hackerrank-matrix-card.svg" width="160"/></a>
     </td>
     <td align="center">
       <a href="https://codechef.com/users/AbhishekAmarvalli"><img src="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/codechef-matrix-card.svg" width="160"/></a>
