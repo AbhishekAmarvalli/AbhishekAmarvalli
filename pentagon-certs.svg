@@ -1,0 +1,14 @@
+<svg width="480" height="480" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg">
+<defs></defs>
+<polygon points="240.0,70.0 401.7,187.5 339.9,377.5 140.1,377.5 78.3,187.5" fill="none" stroke="#1E8449" stroke-width="1.5" stroke-dasharray="4 4" opacity="0.6"/>
+<clipPath id="clip0"><rect x="190.0" y="20.0" width="100" height="100" rx="20"/></clipPath>
+<image href="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/aws-card.svg" x="190.0" y="20.0" width="100" height="100" clip-path="url(#clip0)"/>
+<clipPath id="clip1"><rect x="351.67960777017606" y="137.46711095625895" width="100" height="100" rx="20"/></clipPath>
+<image href="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/oracle-card.svg" x="351.67960777017606" y="137.46711095625895" width="100" height="100" clip-path="url(#clip1)"/>
+<clipPath id="clip2"><rect x="289.9234928897204" y="327.5328890437411" width="100" height="100" rx="20"/></clipPath>
+<image href="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/nptel-card.svg" x="289.9234928897204" y="327.5328890437411" width="100" height="100" clip-path="url(#clip2)"/>
+<clipPath id="clip3"><rect x="90.07650711027958" y="327.5328890437411" width="100" height="100" rx="20"/></clipPath>
+<image href="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/cisco-card.svg" x="90.07650711027958" y="327.5328890437411" width="100" height="100" clip-path="url(#clip3)"/>
+<clipPath id="clip4"><rect x="28.32039222982388" y="137.46711095625898" width="100" height="100" rx="20"/></clipPath>
+<image href="https://raw.githubusercontent.com/AbhishekAmarvalli/AbhishekAmarvalli/main/redhat-card.svg" x="28.32039222982388" y="137.46711095625898" width="100" height="100" clip-path="url(#clip4)"/>
+</svg>
